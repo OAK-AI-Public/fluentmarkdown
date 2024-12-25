@@ -1,3 +1,3 @@
-import { FluentMarkdown } from './FluentMarkdown.jsx';
+import { FluentMarkdown } from './FluentMarkdown.tsx';
 
 export { FluentMarkdown };
