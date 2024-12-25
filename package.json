@@ -1,6 +1,6 @@
 {
   "name": "@oakai/fluentmarkdown",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A React library that transforms Markdown into Fluent UI (v9) components using react-markdown, with optional sanitization and accessibility features.",
   "type": "module",
   "main": "dist/index.js",
